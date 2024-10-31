@@ -127,11 +127,11 @@ const config = {
           {
             title: 'Coming Soon...',
             items: [
-              // {
-              //   label: '...',
-              //   href: 'https://store.taylorswift.com',
-              //   // to: '/blog',
-              // },
+              {
+                label: '10 31 13 1',
+                // href: 'https://store.taylorswift.com',
+                // to: '/blog',
+              },
               // {
               //   label: 'GitHub',
               //   href: 'https://github.com/facebook/docusaurus',
