@@ -8,7 +8,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Adi Hanumaiah',
+  title: 'Adi Hanumaiahh',
   tagline: 'humble enthusiast of Taylor Swift',
   favicon: 'img/vinyl.png',
 
