@@ -140,6 +140,7 @@ const config = {
           },
         ],
         //copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Glitch 10 31 13 1`,
       },
       prism: {
         theme: prismThemes.github,
