@@ -10,7 +10,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'Adi Hanumaiah',
   tagline: 'humble enthusiast of Taylor Swift',
-  // favicon: 'img/vinyl.svg',
+  favicon: 'img/vinyl.png',
 
   // Set the production url of your site here
   url: 'https://adihanumaiah.github.io/',
