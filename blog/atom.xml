@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://adihanumaiah.github.io/my-website/blog</id>
-    <title>Poot's itinerary Blog</title>
+    <title>Thanksgiving Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://adihanumaiah.github.io/my-website/blog"/>
-    <subtitle>Poot's itinerary Blog</subtitle>
-    <icon>https://adihanumaiah.github.io/my-website/img/ghost.svg</icon>
+    <subtitle>Thanksgiving Blog</subtitle>
+    <icon>https://adihanumaiah.github.io/my-website/img/turkey.svg</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://adihanumaiah.github.io/my-website/blog/welcome</id>
